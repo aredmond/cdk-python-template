@@ -2,7 +2,6 @@ from aws_cdk import (
     aws_stepfunctions as sfn,
     aws_stepfunctions_tasks as sfn_tasks,
     aws_lambda as _lambda,
-    aws_codebuild as codebuild,
     core,
 )
 import json
