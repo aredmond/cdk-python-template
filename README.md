@@ -59,3 +59,5 @@ pip install -e .
 ```  
 
 Avoid installing directly with pip to keep your app code functional for new developers in the future.
+
+### TODO Add checklist of items to rename/change when using this template. ie. stacknames, environment names
